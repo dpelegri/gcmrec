@@ -9,7 +9,7 @@
 \title{ General Class of Models for recurrent event data }
 \description{
   Fits the parameters for the general semiparametric model for recurrent events
-  proposed by Peña and Hollander (2004). This class of models
+  proposed by Pe?a and Hollander (2004). This class of models
   incorporates an effective age function which encodes the changes that occur after each event
   occurrence such as the impact of an intervention, it allows for the modeling of the impact of accumulating
   event occurrences on the unit, it admits a link function in which the effect of possibly
@@ -123,7 +123,7 @@ gcmrec(formula, data, effageData = NULL, s, Frailty = FALSE,
             M. Gail, T Santner, and C Brown (1980). An analysis of comparative carfinogenesis 
             experiments based on multiple times to tumor. \emph{Biometrics} \bold{36}, 255-266.          
          
-            JR Gonzalez, E Peña, E Slate (2005). Modelling treatment effect after cancer relapses, with application to
+            JR Gonzalez, E Pe\~na, E Slate (2005). Modelling treatment effect after cancer relapses, with application to
             recurrences in indolent non-Hodgkin's lymphomas. \emph{Stat Med}, submitted.
 
             R. Brent. \emph{Algorithms for Minimization Without Derivatives}. Prentice-Hall,

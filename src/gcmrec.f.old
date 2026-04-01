@@ -1,10 +1,10 @@
 
 *       * Functions to estimate General Class of Models for 
-*       *                     Recurrent Event Data (Peña and Hollander, 2003)
+*       *                     Recurrent Event Data (Pe?a and Hollander, 2003)
 *       *
-*       *  Author: Juan R González
+*       *  Author: Juan R Gonz?lez
 *       *  Date: July 2003
-*       *  Note: Based on R functions written by Peña and Slate, April/July 2003
+*       *  Note: Based on R functions written by Pe?a and Slate, April/July 2003
 *       *  Parameters estimation procedures (Newton-Raphson with modifications 
 *       *  to the Hessian) and Brent's method written by Juan R Gonzalez
 *       *      

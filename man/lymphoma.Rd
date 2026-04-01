@@ -27,7 +27,7 @@
 }
 \source{
 
-JR Gonzalez, E Peña, E Slate (2005). Modelling treatment effect after cancer relapses, with application to
+JR Gonzalez, E Pe\~na, E Slate (2005). Modelling treatment effect after cancer relapses, with application to
 recurrences in indolent non-Hodgkin's lymphomas. \emph{Stat Med}, submitted.
 
 O. Servitje, F. Gallardo, T. Estrach, et al. (2002). Primary cutaneous marginal zone B-cell lymphoma: a clinical,
